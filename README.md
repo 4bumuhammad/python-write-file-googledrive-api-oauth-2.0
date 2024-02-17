@@ -1,5 +1,5 @@
 <p align="center">
-    <img src=".gambar-petunjuk/vecteezy_google-drive-icon-logo.png" alt="googledrive-icon" style="display: block; margin: 0 auto;">
+    <img src="./gambar-petunjuk/vecteezy_google-drive-icon-logo.png" alt="googledrive-icon" style="display: block; margin: 0 auto;">
 </p>
 
 # Google Services API oAuth 2.0 Authentication dengan python 2024
