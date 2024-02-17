@@ -10,6 +10,8 @@ Accounts :
 - storage	: google drive ( Directories My Drive -> jakarta -> test-drive 
 ---
 
+Akan melakukan penulisan file pada google drive dengan menggunakan oAuth 2.0 Authentication dari Google Services API.
+Berikut tahapan-tahapan yang harus dilakukan :
 
 
  
