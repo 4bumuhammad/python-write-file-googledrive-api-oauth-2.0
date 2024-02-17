@@ -28,3 +28,14 @@ Berikut tahapan-tahapan yang harus dilakukan :
 <p align="center">
     <img src="./gambar-petunjuk/ss_004.png" alt="004" style="display: block; margin: 0 auto;">
 </p>
+
+<p align="left">Enable Google Drive API.</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_005.png" alt="005" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_006.png" alt="006" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_007.png" alt="007" style="display: block; margin: 0 auto;">
+</p>
