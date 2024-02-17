@@ -39,3 +39,26 @@ Berikut tahapan-tahapan yang harus dilakukan :
 <p align="center">
     <img src="./gambar-petunjuk/ss_007.png" alt="007" style="display: block; margin: 0 auto;">
 </p>
+
+<p align="left">Membuat Credential OAuth 2.0 Client ID.</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_008.png" alt="008" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_009.png" alt="009" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_010.png" alt="010" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_011.png" alt="011" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_012.png" alt="012" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_013.png" alt="013" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_014.png" alt="014" style="display: block; margin: 0 auto;">
+</p>
