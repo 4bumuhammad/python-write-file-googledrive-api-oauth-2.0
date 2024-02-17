@@ -12,8 +12,8 @@ Accounts :
 
 Akan melakukan penulisan file pada google drive dengan menggunakan oAuth 2.0 Authentication dari Google Services API.
 Berikut tahapan-tahapan yang harus dilakukan :
-
+---
+<p align="left">Lakukan akses ke console cloud google</p>
 <p align="center">
     <img src="./gambar-petunjuk/ss_001.png" alt="001" style="display: block; margin: 0 auto;">
 </p>
-<p align="center">lakukan akses ke console cloud google</p>
