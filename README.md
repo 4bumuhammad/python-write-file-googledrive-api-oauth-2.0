@@ -17,3 +17,14 @@ Berikut tahapan-tahapan yang harus dilakukan :
 <p align="center">
     <img src="./gambar-petunjuk/ss_001.png" alt="001" style="display: block; margin: 0 auto;">
 </p>
+
+<p align="left">Membuat project.</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_002.png" alt="002" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_003.png" alt="003" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_004.png" alt="004" style="display: block; margin: 0 auto;">
+</p>
