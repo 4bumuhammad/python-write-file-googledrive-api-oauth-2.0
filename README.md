@@ -182,7 +182,7 @@ akses link yang diberikan dari response main.py
 Run python terhadap main.py lagi dan akan diberikan response tautan link untuk diakses kembali
 
     ❯ python3 main.py
-        ~/from-github-all/python-write-file-googledrive-api-oauth-2.0/venv/lib/python3.10/site-packages/oauth2client/_helpers.py:255: UserWarning: Cannot access credentials.json: No such file or directory
+        ~/python-write-file-googledrive-api-oauth-2.0/venv/lib/python3.10/site-packages/oauth2client/_helpers.py:255: UserWarning: Cannot access credentials.json: No such file or directory
         warnings.warn(_MISSING_FILE_MESSAGE.format(filename))
         Your browser has been opened to visit:
 
