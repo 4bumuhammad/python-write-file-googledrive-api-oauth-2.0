@@ -166,3 +166,14 @@ akses link yang diberikan dari response main.py
 <p align="center">
     <img src="./gambar-petunjuk/ss_019.png" alt="019" style="display: block; margin: 0 auto;">
 </p>
+
+<p align="left">Lanjutkan tahap berikut pada console cloud google.</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_020.png" alt="020" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_021.png" alt="021" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_022.png" alt="022" style="display: block; margin: 0 auto;">
+</p>
