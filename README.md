@@ -97,3 +97,8 @@ Masukkan (copy-paste) client_id dan client_secret berdasarkan informasi dari Cli
         oauth_scope:
         - https://www.googleapis.com/auth/drive
         - https://www.googleapis.com/auth/drive.install
+
+<p align="left">Buka dashboard Google Drive pada path My Drive > jakarta > test-drive</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_016.png" alt="016" style="display: block; margin: 0 auto;">
+</p>
