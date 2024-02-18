@@ -202,11 +202,10 @@ Masuk dengan account sadeyanebabah.care@gmail.com
 <p align="center">
     <img src="./gambar-petunjuk/ss_026.png" alt="026" style="display: block; margin: 0 auto;">
 </p>
-<p align="center">
-    <img src="./gambar-petunjuk/ss_027.png" alt="027" style="display: block; margin: 0 auto;">
-</p>
 
-Akan secara otomatis, setelah mendapatkan informasi "The authentication flow has completed" akan mendapatkan file credentials.json. Dan struktur pada files akan seperti berikut :
+Akan mendapatkan response "Authentication successful." dan secara otomatis mendapatkan file credentials.json. 
+
+Dan struktur pada files akan seperti berikut :
 
     terminal command.
         ❯ tree -L 1 | grep -E ".json|.py|.yaml"
@@ -214,3 +213,11 @@ Akan secara otomatis, setelah mendapatkan informasi "The authentication flow has
         ├── credentials.json
         ├── main.py
         ├── settings.yaml
+
+<p align="left">Lihat hasilnya yang terjadi pada  dashboard Google Drive di path My Drive > jakarta > test-drive</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_027.png" alt="027" style="display: block; margin: 0 auto;">
+</p>
+
+
+[B E R H A S I L]
