@@ -65,6 +65,10 @@ Berikut tahapan-tahapan yang harus dilakukan :
 
     ❯ ls -lah | grep client_secrets
     -rw-r--r--   1 powercommerce  staff   407B Feb 18 15:14 client_secrets.json
+<p align="left">Dapat dikonfersikan dengan https://jsonprettier.com agar json lebih mudah di baca.</p>
+<p align="center">
+    <img src="./gambar-petunjuk/jsonprettier.png" alt="jsonprettier" style="display: block; margin: 0 auto;">
+</p>
 
 <p align="center">
     <img src="./gambar-petunjuk/ss_014.png" alt="014" style="display: block; margin: 0 auto;">
