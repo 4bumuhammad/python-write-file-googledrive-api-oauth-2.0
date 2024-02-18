@@ -79,12 +79,13 @@ Berikut tahapan-tahapan yang harus dilakukan :
 </p>
 
 ### buat sebuah file yaml bernama settings.yaml dan masukkan dengan format berikut :
+Masukkan (copy-paste) client_id dan client_secret berdasarkan informasi dari Client ID for Desktop.
     ❯ vim settings.yaml :
 
         client_config_backend: file
         client_config:
-        client_id: <id>
-        client_secret: <secret>
+        client_id: 1063147155563-pcrdp41ung33243jichsakah34o9b4ml.apps.googleusercontent.com
+        client_secret: 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
 
         save_credentials: True
         save_credentials_backend: file
