@@ -59,6 +59,15 @@ Berikut tahapan-tahapan yang harus dilakukan :
 <p align="center">
     <img src="./gambar-petunjuk/ss_013.png" alt="013" style="display: block; margin: 0 auto;">
 </p>
+
+### rename file credential hasi download tersebut :
+    ❯ mv client_secret_1063147155563-pcrdp41ung33243jichsakah34o9b4ml.apps.googleusercontent.com.json client_secrets.json
+
+    ❯ ls -lah | grep client_secrets
+    -rw-r--r--   1 powercommerce  staff   407B Feb 18 15:14 client_secrets.json
+
 <p align="center">
     <img src="./gambar-petunjuk/ss_014.png" alt="014" style="display: block; margin: 0 auto;">
 </p>
+
+
