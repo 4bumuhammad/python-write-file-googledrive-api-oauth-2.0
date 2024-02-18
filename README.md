@@ -80,6 +80,7 @@ Berikut tahapan-tahapan yang harus dilakukan :
 
 ### buat sebuah file yaml bernama settings.yaml dan masukkan dengan format berikut :
 Masukkan (copy-paste) client_id dan client_secret berdasarkan informasi dari Client ID for Desktop.
+
     ❯ vim settings.yaml :
 
         client_config_backend: file
