@@ -119,6 +119,7 @@ install packages
 Buat file main.py dan isi dengan :
 - Catatan : values folder adalah base path id address google drive
 
+
     from pydrive.auth import GoogleAuth
     from pydrive.drive import GoogleDrive
 
