@@ -137,7 +137,9 @@ Buat file main.py dan isi dengan :
 
 - Struktur files :
 
-    ❯ tree -L 1 | grep -E ".json|.py|.yaml"
-    ├── client_secrets.json
-    ├── main.py
-    └── settings.yaml
+    terminal command.
+
+        ❯ tree -L 1 | grep -E ".json|.py|.yaml"
+        ├── client_secrets.json
+        ├── main.py
+        └── settings.yaml
