@@ -60,7 +60,7 @@ Berikut tahapan-tahapan yang harus dilakukan :
     <img src="./gambar-petunjuk/ss_013.png" alt="013" style="display: block; margin: 0 auto;">
 </p>
 
-### rename file credential hasi download tersebut :
+### rename file credential hasil download tersebut :
     ❯ mv client_secret_1063147155563-pcrdp41ung33243jichsakah34o9b4ml.apps.googleusercontent.com.json client_secrets.json
 
     ❯ ls -lah | grep client_secrets
@@ -74,4 +74,24 @@ Berikut tahapan-tahapan yang harus dilakukan :
     <img src="./gambar-petunjuk/ss_014.png" alt="014" style="display: block; margin: 0 auto;">
 </p>
 
+<p align="center">
+    <img src="./gambar-petunjuk/ss_015.png" alt="015" style="display: block; margin: 0 auto;">
+</p>
 
+### buat sebuah file yaml bernama settings.yaml dan masukkan dengan format berikut :
+    ❯ vim settings.yaml :
+
+        client_config_backend: file
+        client_config:
+        client_id: <id>
+        client_secret: <secret>
+
+        save_credentials: True
+        save_credentials_backend: file
+        save_credentials_file: credentials.json
+
+        get_refresh_token: True
+
+        oauth_scope:
+        - https://www.googleapis.com/auth/drive
+        - https://www.googleapis.com/auth/drive.install
