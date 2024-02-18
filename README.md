@@ -157,5 +157,12 @@ Run python terhadap main.py :
 
 
 akses link yang diberikan dari response main.py
-
-<p><span style="padding-left: 20px;">https://accounts.google.com/o/oauth2/auth?client_id=1063147155563-pcrdp41ung33243jichsakah34o9b4ml.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.install&access_type=offline&response_type=code&approval_prompt=force</span></p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_017.png" alt="017" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_018.png" alt="018" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_019.png" alt="019" style="display: block; margin: 0 auto;">
+</p>
