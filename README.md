@@ -120,7 +120,7 @@ Buat file main.py dan isi dengan :
 - Catatan : values folder adalah base path id address google drive
 
     main.py :
-    
+
         from pydrive.auth import GoogleAuth
         from pydrive.drive import GoogleDrive
 
@@ -134,3 +134,10 @@ Buat file main.py dan isi dengan :
         file1.SetContentString('Assalamualaikum Warahmatullah Wabarakatuh!')
 
         file1.Upload()
+
+- Struktur files :
+
+    ❯ tree -L 1 | grep -E ".json|.py|.yaml"
+    ├── client_secrets.json
+    ├── main.py
+    └── settings.yaml
