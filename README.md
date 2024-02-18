@@ -102,3 +102,33 @@ Masukkan (copy-paste) client_id dan client_secret berdasarkan informasi dari Cli
 <p align="center">
     <img src="./gambar-petunjuk/ss_016.png" alt="016" style="display: block; margin: 0 auto;">
 </p>
+
+
+## Python code
+
+command terminal : 
+
+    ❯ python3 -m venv venv
+
+    ❯ source ./venv/bin/activate
+
+install packages 
+
+    ❯  pip3 install pydrive
+    
+Buat file main.py dan isi dengan :
+- Catatan : values folder adalah base path id address google drive
+
+    from pydrive.auth import GoogleAuth
+    from pydrive.drive import GoogleDrive
+
+    settings_path = './settings.yaml' 
+    gauth = GoogleAuth(settings_file=settings_path)
+    drive = GoogleDrive(gauth)
+
+    folder = "1wFXnCztdnawVpkNc_PWeUYVN97UQCqsI"
+
+    file1 = drive.CreateFile({'parents':[{'id': folder}], 'title': 'bismillah.txt'})
+    file1.SetContentString('Assalamualaikum Warahmatullah Wabarakatuh!')
+
+    file1.Upload()
