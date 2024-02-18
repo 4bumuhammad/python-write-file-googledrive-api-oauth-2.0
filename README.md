@@ -187,3 +187,30 @@ Run python terhadap main.py lagi dan akan diberikan response tautan link untuk d
         Your browser has been opened to visit:
 
             https://accounts.google.com/o/oauth2/auth?client_id=1063147155563-pcrdp41ung33243jichsakah34o9b4ml.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive.install&access_type=offline&response_type=code&approval_prompt=force
+
+
+Masuk dengan account sadeyanebabah.care@gmail.com 
+<p align="center">
+    <img src="./gambar-petunjuk/ss_023.png" alt="023" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_024.png" alt="024" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_025.png" alt="025" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_026.png" alt="026" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_027.png" alt="027" style="display: block; margin: 0 auto;">
+</p>
+
+Akan secara otomatis, setelah mendapatkan informasi "The authentication flow has completed" akan mendapatkan file credentials.json. Dan struktur pada files akan seperti berikut :
+
+    terminal command.
+        ❯ tree -L 1 | grep -E ".json|.py|.yaml"
+        ├── client_secrets.json
+        ├── credentials.json
+        ├── main.py
+        ├── settings.yaml
