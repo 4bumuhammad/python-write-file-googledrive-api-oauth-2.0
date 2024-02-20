@@ -216,7 +216,8 @@ Dan struktur pada files akan seperti berikut :
 
 ---
 
-PERHATIAN ! :
+### PERHATIAN ! :
+
 Dalam hal ini file credentials.json saya enkripsi untuk tetap menjaga keamanan akses. Jika ingin melakukan deskripsi file tersebut, berikut adalah command terapannya :
 
     ❯  openssl aes-256-cbc -d -in ./credentials.json.enc -out ./credentials.json
