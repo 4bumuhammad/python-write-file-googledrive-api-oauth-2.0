@@ -214,6 +214,15 @@ Dan struktur pada files akan seperti berikut :
         ├── main.py
         ├── settings.yaml
 
+---
+
+PERHATIAN ! :
+Dalam hal ini file credentials.json saya enkripsi untuk tetap menjaga keamanan akses. Jika ingin melakukan deskripsi file tersebut, berikut adalah command terapannya :
+
+    ❯  openssl aes-256-cbc -d -in ./credentials.json.enc -out ./credentials.json
+
+---
+
 <p align="left">Lihat hasilnya yang terjadi pada  dashboard Google Drive di path My Drive > jakarta > test-drive</p>
 <p align="center">
     <img src="./gambar-petunjuk/ss_027.png" alt="027" style="display: block; margin: 0 auto;">
